@@ -2,16 +2,26 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://domain.and.server.expired.waiting.for.rebuild/"
   },
   {
     "icon": "Book",
     "name": "导航站",
-    "link": "https://web.imsyy.top/"
+    "link": "https://not.yet.available/"
   },
   {
-    "icon": "LaptopCode",
+    "icon": "Activity",
     "name": "探针",
-    "link": "https://status.imsyy.top/"
-  }
+    "link": "https://server.expired.waiting.for.rebuild/"
+  },
+  {
+    "icon": "AddLinkRound",
+    "name": "长链接",
+    "link": "https://dddddddddddddddddddddddddddddddddddddddddddddddddddddddddd.ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd.ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd.ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd.de"
+  },
+  {
+    "icon": "LinkOffRound",
+    "name": "短链接",
+    "link": "https://not.yet.available/"
+  },
 ]
