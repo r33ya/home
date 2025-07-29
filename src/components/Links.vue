@@ -44,8 +44,8 @@
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
 import { Link, Blog, Book } from "@vicons/fa"; // 注意使用正确的类别
-import { AddLinkRound, LinkOffRound } from "@vicon/material";
-import { Activity } from "@vicon/tabler"
+import { AddLinkRound, LinkOffRound } from "@vicons/material";
+import { Activity } from "@vicons/tabler";
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
