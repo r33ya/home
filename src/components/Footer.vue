@@ -21,12 +21,14 @@
           </a>
         </span>
         <!-- 站点备案 -->
+        <!-- 由于无备案，且若未注释会多出一个&号，所以将这部分注释掉。 -->
+        <!--
         <span>
           &amp;
           <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
             {{ siteIcp }}
           </a>
-        </span>
+        </span> -->
       </div>
       <div v-else class="lrc">
         <Transition name="fade" mode="out-in">
