@@ -112,10 +112,10 @@ onMounted(() => {
   const title1 = "R33の主页";
   const title2 = `
    ____    _____   _____ 
-  |  _ \  |___ /  |___ / 
-  | |_) |   |_ \    |_ \ 
+  |  _ \\  |___ /  |___ / 
+  | |_) |   |_ \\    |_ \\ 
   |  _ <   ___) |  ___) |
-  |_| \_\ |____/  |____/ `;
+  |_| \\_\\ |____/  |____/ `;
   const content = `\n\n版本: ${config.version}\n原项目Github: ${config.github}`;
   console.info(`%c${title1} %c${title2} %c${content}`, styleTitle1, styleTitle2, styleContent);
 });
